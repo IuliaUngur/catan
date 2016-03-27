@@ -1,2 +1,3 @@
-src/node_modules/*
-src/typings/*
+node_modules/*
+server/typings/*
+client/typings/*

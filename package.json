@@ -1,0 +1,42 @@
+{
+  "name": "saboteur",
+  "version": "1.0.0",
+  "description": "Board games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IuliaUngur/catan.git"
+  },
+  "dependencies": {
+    "angular2": "2.0.0-beta.11",
+    "angular2-local-storage": "0.2.0",
+    "systemjs": "0.19.24",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.35.0",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.2",
+    "zone.js": "0.6.4",
+    "express": "4.13.3",
+    "body-parser": "1.15.0",
+    "mongoose": "4.4.8"
+  },
+  "devDependencies": {
+    "del": "2.2.0",
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.0",
+    "gulp-sourcemaps": "1.6.0",
+    "gulp-typescript": "^2.12.1",
+    "run-sequence": "1.1.5",
+    "gulp-nodemon": "2.0.6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IuliaUngur/catan/issues"
+  },
+  "homepage": "https://github.com/IuliaUngur/catan#readme"
+}
